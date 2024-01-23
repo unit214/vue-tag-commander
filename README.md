@@ -16,6 +16,7 @@ Integrate Tag Commander with your Vue applications seamlessly using the `vue-tag
 - [Sample App](#sample-app)
 - [License](#license)
 - [Development](#development)
+- [Contribute](#contribute)
 
 # Features <a name="features"></a>
 
@@ -216,9 +217,6 @@ To help you with your implementation we provide two sample applications, one for
 
 Then, visit [http://localhost:5173](http://localhost:3000).
 
-# License <a name="license"></a>
-This module uses the [MIT License](http://revolunet.mit-license.org). Contributions are welcome.
-
 # Development <a name="development"></a>
 
 After forking, set up your environment:
@@ -228,3 +226,10 @@ After forking, set up your environment:
 Commands available:
 
 1. ```gulp```
+
+# Contribute <a name="contribute"></a>
+
+To contribute to this project, please read the [CONTRIBUTE.md](CONTRIBUTE.md) file.
+
+# License <a name="license"></a>
+This module uses the [MIT License](http://revolunet.mit-license.org). Contributions are welcome.
