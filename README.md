@@ -221,11 +221,15 @@ Then, visit [http://localhost:5173](http://localhost:3000).
 
 After forking, set up your environment:
 
-1. ```npm install```
+```bash
+npm install
+```
 
 Commands available:
 
-1. ```gulp```
+```bash
+gulp
+```
 
 # Contribute <a name="contribute"></a>
 
